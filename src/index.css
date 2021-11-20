@@ -1,0 +1,79 @@
+.addtask {
+    text-align: center;
+    background-color: gray;
+}
+.text1{
+    width: 300px;
+    size: 200px;
+    padding: 10px;
+    color: deeppink;
+}
+.text2{
+    width: 300px;
+    size: 200px;
+    padding: 20px;
+    color: deeppink;
+}
+.text3{
+    width: 300px;
+    size: 200px;
+    padding: 10px;
+    color: deeppink;
+}   
+.button2 {
+    padding: 7px;
+    width: 100px;
+    color: salmon;
+}
+.button2:hover{
+    padding: 10px;
+    width: 140px;
+    color: red;
+    background-color: plum;
+}
+
+.but3 {
+    color: saddlebrown;
+    padding: 7px;
+    margin: 10px;
+}
+.but2 {
+    color: saddlebrown;
+    padding: 7px;
+    margin: 10px;
+    text-align: center;
+}
+
+.l1 {
+    color:blue
+}
+
+.Home {
+    text-align: center;
+}
+.block {
+    color:darksalmon;
+   
+}
+.add {
+    color: maroon;
+}
+.h1 {
+    color:plum
+}
+
+.h2 {
+    color: gray;
+}
+.h3 {
+    color:deeppink
+}
+.but4 {
+    color: lightcoral;
+    padding: 7px;
+    margin: 7;
+}
+.but4:hover {
+    color:red;
+    padding: 8px;
+}
